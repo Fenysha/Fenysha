@@ -1,7 +1,14 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeshariEnjoer&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeshariEnjoer&layout=compact&langs_count=5&theme=radical&hide_border=true" height="170"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=TeshariEnjoer&show_icons=true&rank_icon=github&show=prs_merged,reviews&theme=radical&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=TeshariEnjoer&layout=compact&langs_count=5&theme=radical&hide_border=true"
+    height="170"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-ef4041?style=for-the-badge&logo=csharp&logoColor=white"/>
