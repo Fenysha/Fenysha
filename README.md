@@ -1,10 +1,10 @@
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=TeshariEnjoer&show_icons=true&rank_icon=github&show=prs_merged,reviews&theme=radical&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=Fenysha&show_icons=true&rank_icon=github&show=prs_merged,reviews&theme=radical&hide_border=true"
     height="170"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=TeshariEnjoer&layout=compact&langs_count=5&theme=radical&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fenysha&layout=compact&langs_count=5&theme=radical&hide_border=true"
     height="170"
   />
 
